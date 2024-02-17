@@ -1,0 +1,8 @@
+{
+  "name": "shipping Amine",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b0463132"
+}
